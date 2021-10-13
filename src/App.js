@@ -1,10 +1,8 @@
-import './App.css';
+import AllRoutes from './routes';
 
 function App() {
   return (
-    <div className="App">
-      <h3>You'll be provided with the latest news here...............</h3>
-    </div>
+    <AllRoutes />
   );
 }
 
